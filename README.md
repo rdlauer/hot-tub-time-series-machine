@@ -10,9 +10,9 @@ a residential body of water (like a pool or hot tub) with:
 - A **cloud-based dashboard** populated by time series data;
 - PLUS an **SMS notification** system for chlorine emergencies!
 
-**Read through the entire project [here on Hackster](TODO).**
+**Read through the entire project [here on Hackster](https://www.hackster.io/rob-lauer/debugging-a-hot-tub-time-series-machine-92e44f).**
 
-> You can also watch a [short preview of the project on YouTube](TODO)!
+> You can also watch a [short preview of the project on YouTube](https://youtu.be/pYxxY7sP5MI)!
 
 ## Hardware Used:
 
